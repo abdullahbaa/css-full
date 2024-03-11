@@ -21,11 +21,14 @@ div p{
 }
 .text-bk{
  color: red;
- text-align: center;   
+ text-align: center;  
+ background-color: aqua ; 
 }
 .first-div{
 background-color: blue;
 margin: 0;
+text-align: center;
+border: 20px;
 }
 .first-div p{
     color: azure;
@@ -33,4 +36,14 @@ margin: 0;
 #big-div{
     width: 400px;
 
+}
+.hi{
+    text-align: center;
+    text-decoration: none;
+    color: red;
+
+}
+.ef{
+    text-align:right;
+    color: tomato;
 }
