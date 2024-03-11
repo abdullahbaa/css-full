@@ -1,0 +1,36 @@
+/* selector color property */
+/* priority bottom to up */
+h1{
+    color: brown;
+    font-size: 60px;
+    font-style: italic;
+}  
+p{
+    color: blue;
+    font-size: 18px;
+    font-style: oblique;
+}
+div{
+    width: 200px;
+    height: 200px;
+    background: aqua;
+    margin-bottom: 20px;
+}
+div p{
+    color: black;
+}
+.text-bk{
+ color: red;
+ text-align: center;   
+}
+.first-div{
+background-color: blue;
+margin: 0;
+}
+.first-div p{
+    color: azure;
+}
+#big-div{
+    width: 400px;
+
+}
